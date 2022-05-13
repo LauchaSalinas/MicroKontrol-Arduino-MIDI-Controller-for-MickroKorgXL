@@ -1,6 +1,9 @@
 # MicroKontrol  
 Arduino project for adding sustain and expression pedal to the MicroKorg XL  
   
+![alt text](/img/Screenshot 2019-10-13 18.53.07.png?raw=true)  
+![alt-text](/img/Screenshot 2019-10-13 18.53.48.png?raw=true)  
+
 Used Libraries:  
 SevenSegmentTM1637  
 MIDI_Library  
